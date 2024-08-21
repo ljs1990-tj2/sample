@@ -83,7 +83,8 @@
 
 이미지를 넣고 싶으면 새로운 저장소(Repository)에 이미지 업로드하고(같은 저장소 아니여도 됨)
 
-링크 주소 복사 후 붙여 넣기 이렇게 ![샘플]([링크주소](https://github.com/ljs1990-tj2/imageSample/blob/main/%EC%BA%A1%EC%B2%98.PNG))
+링크 주소 복사 후 붙여 넣기 이렇게 
+![샘플](https://github.com/ljs1990-tj2/imageSample/blob/main/%EC%BA%A1%EC%B2%98.PNG)
 
 ![이미지네임](https://github.com/ljs1990-tj2/imageSample/blob/main/yu.jpg)
 
