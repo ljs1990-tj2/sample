@@ -79,3 +79,11 @@
 
 <https://github.com/ljs1990-tj2>
 
+---
+
+이미지를 넣고 싶으면 새로운 저장소(Repository)에 이미지 업로드하고(같은 저장소 아니여도 됨)
+
+링크 주소 복사 후 붙여 넣기
+
+https://github.com/ljs1990-tj2/imageSample/blob/main/yu.jpg
+
